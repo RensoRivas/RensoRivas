@@ -1,195 +1,127 @@
-````md
+```md
 <div align="center">
+  <img src="./assets/banner-cyberpunk.png" alt="Cyberpunk Banner" width="100%" />
+</div>
 
-# ⚡ RENSO RIVAS
+<h1 align="center">Hi 👋, I'm Renso Rivas</h1>
+<h3 align="center">Architecture × Frontend Development × Digital Design</h3>
 
-### `ARCHITECTURE × FRONTEND × DIGITAL DESIGN`
+<p align="center">
+  I create digital experiences that connect design, technology and visual thinking.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=BUILDING+DIGITAL+EXPERIENCES;FRONTEND+DEVELOPMENT;ARCHITECTURE+%2B+TECHNOLOGY;DESIGNING+THE+FUTURE" alt="Typing SVG" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RensoRivas&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/RensoRivas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-RensoRivas-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="TU_PORTAFOLIO" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="TU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:TU_CORREO">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## 👨‍💻 About Me
+
+- 💻 Frontend Development enthusiast
+- 🎨 Interested in UI / UX and digital experiences
+- 🏛 Architecture + technology
+- 📷 Photography and visual content
+- 🚀 Always learning and building new things
+- 🌎 Based in Peru
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RensoRivas&label=PROFILE+VISITORS&color=00ffff&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/RensoRivas?style=for-the-badge&color=7b2cff&labelColor=0d1117&label=FOLLOWERS)
+## ⚡ Current Focus
 
-</div>
+- React and frontend development
+- Responsive web design
+- Visual design and user experience
+- Personal portfolio projects
+- GitHub and project publishing
 
----
-
-## `> SYSTEM.IDENTIFICATION`
-
-```yaml
-NAME: Renso Rivas
-LOCATION: Peru
-FIELD_01: Architecture
-FIELD_02: Frontend Development
-FIELD_03: Digital Design
-STATUS: Learning / Building / Exploring
-````
+</td>
+<td width="45%" align="center">
+  <img src="./assets/coding.gif" alt="Coding Gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
-## `> ABOUT.USER`
+## 🛠 Languages and Tools
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│  ARCHITECTURE                                           │
-│  DIGITAL DESIGN                                         │
-│  FRONTEND DEVELOPMENT                                   │
-│                                                         │
-│  Exploring the intersection between space, technology, │
-│  interfaces and digital experiences.                   │
-└─────────────────────────────────────────────────────────┘
-```
-
-* 🏛 Architecture & spatial design
-* 💻 Frontend development
-* 🎨 UI / UX and digital experiences
-* 📷 Photography & visual content
-* ⚡ Technology and creative experimentation
-* 🚀 Constantly learning new tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,cs,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
-## `> TECH.STACK`
+## 🚀 Featured Projects
 
-<div align="center">
+### 🍽 [PortafolioRivas](https://github.com/RensoRivas/PortafolioRivas)
+Personal portfolio project focused on design, presentation and digital identity.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,cs,git,github,vscode&theme=dark" />
+### 🌐 [RensoRivas.github.io](https://github.com/RensoRivas/RensoRivas.github.io)
+Website / GitHub Pages project.
 
-</div>
+### 🧩 [RensoRivasPortafolio.github.io](https://github.com/RensoRivas/RensoRivasPortafolio.github.io)
+Another portfolio-style web project published through GitHub Pages.
 
-<br>
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=00F7FF)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=00F7FF)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge\&logo=javascript\&logoColor=F7FF00)
-![React](https://img.shields.io/badge/REACT-0D1117?style=for-the-badge\&logo=react\&logoColor=00F7FF)
-![Tailwind](https://img.shields.io/badge/TAILWIND-0D1117?style=for-the-badge\&logo=tailwindcss\&logoColor=00F7FF)
-![Vite](https://img.shields.io/badge/VITE-0D1117?style=for-the-badge\&logo=vite\&logoColor=BD00FF)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge\&logo=csharp\&logoColor=BD00FF)
-![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge\&logo=git\&logoColor=FF3366)
-
-</div>
+### ⚙️ [curso-devops](https://github.com/RensoRivas/curso-devops)
+Repository for learning, practice and experiments related to DevOps and development workflows.
 
 ---
 
-## `> ACTIVE.PROJECTS`
+## 📊 GitHub Stats
 
-### `[01] MONARCA`
-
-> Restaurant website focused on visual identity, responsive design and user experience.
-
-`React` `Vite` `Tailwind CSS` `JavaScript`
-
----
-
-### `[02] PORTAFOLIO RIVAS`
-
-> Personal digital portfolio for projects, design and experimentation.
-
-`HTML` `CSS` `JavaScript`
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RensoRivas&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RensoRivas&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### `[03] ATARAXIA`
+## 🔥 GitHub Streak
 
-> Digital management concept focused on construction and project organization.
-
-`React` `Tailwind CSS` `JavaScript`
-
----
-
-### `[04] DEVOPS LAB`
-
-> Experiments and learning related to development workflows and DevOps.
-
-`Git` `GitHub` `C#` `DevOps`
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RensoRivas&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## `> GITHUB.TELEMETRY`
+## 🌐 Connect With Me
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RensoRivas&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&text_color=FFFFFF&icon_color=BD00FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RensoRivas&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=FFFFFF"/>
-
-</div>
-
----
-
-## `> ACTIVITY.STREAM`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RensoRivas&bg_color=0d1117&color=00f7ff&line=bd00ff&point=ffffff&area=true&hide_border=true" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/RensoRivas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-RensoRivas-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="TU_PORTAFOLIO" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="TU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:TU_CORREO">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-## `> SYSTEM.UPTIME`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=RensoRivas&theme=transparent&hide_border=true&ring=00F7FF&fire=BD00FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=808080" />
-
-</div>
-
----
-
-## `> CURRENT.OBJECTIVES`
-
-```text
-[██████████░░] FRONTEND DEVELOPMENT
-[████████░░░░] REACT ECOSYSTEM
-[███████░░░░░] UI / UX DESIGN
-[██████░░░░░░] WEB ANIMATION
-[█████████░░░] GIT & GITHUB
-[████████░░░░] ARCHITECTURE + TECHNOLOGY
-```
-
----
-
-## `> NETWORK.CONNECTIONS`
-
-<div align="center">
-
-<a href="https://github.com/RensoRivas">
-<img src="https://img.shields.io/badge/GITHUB-ACCESS-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-</a>
-
-<a href="TU_LINK_PORTAFOLIO">
-<img src="https://img.shields.io/badge/PORTFOLIO-ENTER-0D1117?style=for-the-badge&logo=googlechrome&logoColor=BD00FF"/>
-</a>
-
-<a href="TU_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-</a>
-
-<a href="mailto:TU_CORREO">
-<img src="https://img.shields.io/badge/EMAIL-SEND-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3366"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════╗
-║      ARCHITECTURE × CODE × DESIGN       ║
-║                                          ║
-║          SYSTEM STATUS: ONLINE           ║
-╚══════════════════════════════════════════╝
-```
-
-### `// BUILDING THE NEXT VERSION`
-
-</div>
+<h3 align="center">Architecture × Code × Design</h3>
 ```
