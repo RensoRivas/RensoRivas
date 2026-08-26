@@ -1,0 +1,115 @@
+﻿<svg width="1500" height="400" viewBox="0 0 1500 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="40" x2="1370" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.55" stop-color="#101826"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(330 156) rotate(35) scale(410 230)">
+      <stop stop-color="#00E5FF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1180 244) rotate(150) scale(440 260)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="350" y1="72" x2="1120" y2="322" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF"/>
+      <stop offset="0.5" stop-color="#168BFF"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="lineFade" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00E5FF" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#F5F7FA" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1500" height="400" rx="28" fill="url(#bg)"/>
+  <rect width="1500" height="400" rx="28" fill="url(#grid)"/>
+  <rect width="1500" height="400" rx="28" fill="url(#glowLeft)"/>
+  <rect width="1500" height="400" rx="28" fill="url(#glowRight)"/>
+
+  <g opacity="0.7">
+    <path d="M0 114H1500" stroke="url(#lineFade)" stroke-width="1.5"/>
+    <path d="M0 287H1500" stroke="url(#lineFade)" stroke-width="1.5"/>
+    <path d="M1048 46L1264 46" stroke="#00E5FF" stroke-opacity="0.35"/>
+    <path d="M1132 70L1406 70" stroke="#8B5CF6" stroke-opacity="0.28"/>
+    <path d="M1042 332L1378 332" stroke="#168BFF" stroke-opacity="0.26"/>
+    <path d="M128 58L410 58" stroke="#168BFF" stroke-opacity="0.24"/>
+    <path d="M88 346L370 346" stroke="#00E5FF" stroke-opacity="0.2"/>
+  </g>
+
+  <g opacity="0.8">
+    <path d="M1064 96L1384 96L1454 166V312H1064V96Z" stroke="#F5F7FA" stroke-opacity="0.08"/>
+    <path d="M1090 118H1360" stroke="#00E5FF" stroke-opacity="0.35"/>
+    <path d="M1090 138H1320" stroke="#F5F7FA" stroke-opacity="0.16"/>
+    <path d="M1090 158H1288" stroke="#F5F7FA" stroke-opacity="0.16"/>
+    <path d="M1090 222H1412" stroke="#8B5CF6" stroke-opacity="0.28"/>
+    <path d="M1090 244H1370" stroke="#F5F7FA" stroke-opacity="0.16"/>
+    <path d="M1090 264H1308" stroke="#F5F7FA" stroke-opacity="0.16"/>
+    <rect x="1118" y="184" width="54" height="18" rx="9" fill="#00E5FF" fill-opacity="0.18" stroke="#00E5FF" stroke-opacity="0.42"/>
+    <rect x="1184" y="184" width="48" height="18" rx="9" fill="#168BFF" fill-opacity="0.14" stroke="#168BFF" stroke-opacity="0.36"/>
+    <rect x="1244" y="184" width="62" height="18" rx="9" fill="#8B5CF6" fill-opacity="0.14" stroke="#8B5CF6" stroke-opacity="0.32"/>
+  </g>
+
+  <g opacity="0.75">
+    <path d="M122 306L268 186L392 268L546 126" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="122" cy="306" r="6" fill="#00E5FF"/>
+    <circle cx="268" cy="186" r="6" fill="#168BFF"/>
+    <circle cx="392" cy="268" r="6" fill="#8B5CF6"/>
+    <circle cx="546" cy="126" r="6" fill="#00E5FF"/>
+    <path d="M210 332H324" stroke="#F5F7FA" stroke-opacity="0.18"/>
+    <path d="M262 344H452" stroke="#F5F7FA" stroke-opacity="0.12"/>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <path d="M624 118H990" stroke="url(#accent)" stroke-width="2.8" stroke-linecap="round" opacity="0.8"/>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="596" y="80" width="422" height="206" rx="18" fill="#0D1117" fill-opacity="0.5" stroke="url(#accent)" stroke-opacity="0.3"/>
+    <path d="M626 106H694" stroke="#00E5FF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M626 124H736" stroke="#F5F7FA" stroke-opacity="0.28" stroke-linecap="round"/>
+    <text x="626" y="184" fill="#F5F7FA" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="7">RENSO RIVAS</text>
+    <text x="626" y="222" fill="#B7C6D9" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="3">ARCHITECTURE × FRONTEND × DIGITAL DESIGN</text>
+  </g>
+
+  <g>
+    <rect x="626" y="248" width="88" height="30" rx="15" fill="#00E5FF" fill-opacity="0.12" stroke="#00E5FF" stroke-opacity="0.45"/>
+    <rect x="730" y="248" width="74" height="30" rx="15" fill="#168BFF" fill-opacity="0.12" stroke="#168BFF" stroke-opacity="0.4"/>
+    <rect x="820" y="248" width="90" height="30" rx="15" fill="#8B5CF6" fill-opacity="0.12" stroke="#8B5CF6" stroke-opacity="0.4"/>
+    <text x="651" y="268" fill="#F5F7FA" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">DESIGN</text>
+    <text x="752" y="268" fill="#F5F7FA" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">CODE</text>
+    <text x="846" y="268" fill="#F5F7FA" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">CREATE</text>
+  </g>
+
+  <g opacity="0.7">
+    <path d="M316 84L408 84L454 130L454 194L316 194V84Z" stroke="#F5F7FA" stroke-opacity="0.12"/>
+    <path d="M316 162L454 162" stroke="#00E5FF" stroke-opacity="0.3"/>
+    <path d="M344 102L430 102" stroke="#F5F7FA" stroke-opacity="0.12"/>
+    <path d="M344 120L406 120" stroke="#F5F7FA" stroke-opacity="0.12"/>
+    <path d="M344 138L416 138" stroke="#8B5CF6" stroke-opacity="0.22"/>
+  </g>
+
+  <g opacity="0.8">
+    <path d="M1210 118L1332 118L1386 172L1386 288L1210 288V118Z" fill="#0D1117" fill-opacity="0.38" stroke="#F5F7FA" stroke-opacity="0.12"/>
+    <path d="M1240 156L1294 156" stroke="#00E5FF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M1240 178L1350 178" stroke="#F5F7FA" stroke-opacity="0.14"/>
+    <path d="M1240 198L1326 198" stroke="#F5F7FA" stroke-opacity="0.14"/>
+    <path d="M1240 236L1358 236" stroke="#8B5CF6" stroke-opacity="0.26"/>
+    <path d="M1240 256L1316 256" stroke="#F5F7FA" stroke-opacity="0.14"/>
+  </g>
+
+  <rect x="18" y="18" width="1464" height="364" rx="20" stroke="#F5F7FA" stroke-opacity="0.08"/>
+</svg>
